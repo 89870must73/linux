@@ -128,7 +128,6 @@ ca ca.crt
 cert server.crt
 key server.key
 dh dh.pem
-tls-auth ta.key 0
 #verify-client-cert none
 client-cert-not-required
 username-as-common-name
